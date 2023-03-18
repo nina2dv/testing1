@@ -38,14 +38,10 @@ def inject_ga():
 inject_ga()
 
 
-st.set_page_config(page_title="Python Talks Search Engine", page_icon="🐍", layout="wide")
-st.title("Python Talks Search Engine")
+st.set_page_config(page_title="Python Search Engine", page_icon="🐍", layout="wide")
+st.title("Python Search Engine")
 
-
-sheet_id = "1nctiWcQFaB5UlIs6z8d1O6ZgMHFDMAoo3twVxYnBUws"
-sheet_name = "charlas"
-url = f"<https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={sheet_name}>"
-df = pd.read_csv(url, dtype=str).fillna("")
+df = pd.read_csv("spreadsheet.csv").fillna("")
 
 text_search = st.text_input("Search videos by title or speaker", value="")
 
