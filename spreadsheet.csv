@@ -1,0 +1,265 @@
+Evento,Lugar,Fecha,Orden,Track,Tipo,Programa Evento,Autor,Título,Video,Palabras clave,Descripción,Recursos
+Meetups 2023,Santiago,2023-02-28,04,,Charla,No Aplica,Daniel Hernández,Interfaces Low-code Qt-integración Python,https://www.youtube.com/live/6h6V02LxIBc?feature=share&t=2989,Qt; low-code; python; Interfaces,,
+Meetups 2023,Santiago,2023-02-28,03,,Charla,No Aplica,Daniel Acuña,Interfaces Low-code Qt-integración Python/ML Workflows con Kubeflow Pipelines v2,https://www.youtube.com/live/6h6V02LxIBc?feature=share&t=466,Workflows; Kubeflow; Machine learning; Pipelines,,
+Meetups 2023,Online,2023-02-23,02,,Charla,No aplica,Anavelyz Pérez; Yurely Camacho,Open Science Labs:Apoyando comunidades Python cientifico,https://www.youtube.com/live/iZmh-UVaQt8?feature=share&t=2773,Open science; Python cientifico; Comunidad,,
+Meetups 2023,Online,2023-02-23,01,,Charla,No aplica,Pamela Ibarguren,Que buscan empresas USA en ingenieros LATAM,https://www.youtube.com/live/iZmh-UVaQt8?feature=share&t=58,Howdy; Empleo; estados unidos; Comunidad,,
+Pycon 2022,Copiapó,2022-12-02,01,,Charla,https://pycon.cl/#programa,Pedro Cuyanao,Experiencia de aprendizaje Python Presencial v/s Remoto,https://youtu.be/NlwOtd3QQWo,experiencia; aprendizaje; python; presencial; remoto,,
+Pycon 2022,Copiapó,2022-12-02,02,,Charla,https://pycon.cl/#programa,Elizabeth Aguilera,Como aprender Python desde la ansiedad,https://youtu.be/zLFJyQJ3Xfk,Experiencia; Ansiedad; Miedo,,
+Pycon 2022,Copiapó,2022-12-02,03,,Charla,https://pycon.cl/#programa,Andrés Ibáñez,Aprendamos a usar TKINTER interfaces gráficas en Python,https://youtu.be/USMS9CpsIRA,UI; Interfaz; TKinter; visual,,
+Pycon 2022,Copiapó,2022-12-02,04,,Charla,https://pycon.cl/#programa,Sebastian Varas,Como iniciar desde 0 en python,https://youtu.be/uNaN21ZAaOA,Principiante; python,,
+Pycon 2022,Copiapó,2022-12-02,05,,Charla,https://pycon.cl/#programa,Kevin Carmona,IA: El arte de crear cualquier cosa,https://youtu.be/XT5FO7yeFaQ,IA creativa; Stable Diffusion; IA,,
+Pycon 2022,Copiapó,2022-12-02,06,,Charla,https://pycon.cl/#programa,Maximilia Saa; Bastian Lara; Alberto Olivares,DisApp Integración para personas con problemas de audición/presbiacusia,https://youtu.be/LHirVfT02No,Discapacidad; Integracion; DisApp,,
+Pycon 2022,Copiapó,2022-12-02,07,,Charla,https://pycon.cl/#programa,Diego Castro; Camilo Henríquez; Natalia Paredes; Mauro Perez,Python cambio mi forma de ver las cosas,https://youtu.be/0dGRqduxXXg,Experiencia; Motivacion,,
+Pycon 2022,Copiapó,2022-12-02,08,,Charla,https://pycon.cl/#programa,Luis Rojas,Redes Neuronales y Python,https://youtu.be/KLTqarXfuFU,IA; Redes neuronales; Pytorch; Colab,,
+Pycon 2022,Copiapó,2022-12-02,09,,Charla,https://pycon.cl/#programa,Bastián Elgueta,Python y Análisis de Datos,https://youtu.be/tZsNlMSsl2w,Base de datos; data engineering; data; ciencia de datos,,
+Pycon 2022,Copiapó,2022-12-02,10,,Charla,https://pycon.cl/#programa,Francisco Saavedra,Python en la Minería,https://youtu.be/1Qhi2Jpu1L0,Base de datos; data engineering; data; ciencia de datos; Mineria,,
+Pycon 2022,Copiapó,2022-12-02,11,,Charla,https://pycon.cl/#programa,Celeste Marambio,Aprende Python con juegos,https://youtu.be/eSpUlEf9r38,Videojuegos; Gaming; Aprender,,
+Pycon 2022,Online,2022-12-04,01,,Keynote,https://pycon.cl/#programa,Carlos Córdoba,Mi experiencia liderando un grupo multidisciplinario e internacional en el desarrollo de Spyder,https://youtu.be/0aW5GjKizsE,Spyder; IDE; comunidad; desarrollo,Como es liderar un proyecto tan grande como lo es Spyder.,
+Pycon 2022,Online,2022-12-04,02,B,Charla,https://pycon.cl/#programa,David Sol,Python en la Nube: Automatizando la operación de AWS con Boto3,https://youtu.be/4Yq9Q-AXXsk,AWS; Nube; Cloud; Boto3; EC2,"Automatizar procesos en la nube, con la ayuda de Boto3, en AWS.",
+Pycon 2022,Online,2022-12-04,03,B,Charla,https://pycon.cl/#programa,Flavio Espeche Nieva,Python + microPython = Python IoT,https://youtu.be/7n3HkZMMQCM,MicroPython; Microcontroladores; Raspberry; Arduino; IOT,"La utilizacion de microcontroladores con python, con la libreria MicroPython",
+Pycon 2022,Online,2022-12-04,04,B,Charla,https://pycon.cl/#programa,Sebastián Flores,Usando Streamlit en la industria,https://youtu.be/xHabAVZDAHo,Streamlit; Industria; WEB,Convenciones y consejos de cómo usar streamlit para proyectos de empresa.,"pdf: https://bit.ly/3VFYfJ7
+code: https://github.com/sebastiandres/stblog_uplanner
+app: https://st-uplanner.streamlit.app/"
+Pycon 2022,Online,2022-12-04,05,B,Charla,https://pycon.cl/#programa,Roobed Trejo; Luly Ozuna,Python Institute,https://youtu.be/kfsFpZaMxRo,Python Institute,Charla sobre los sistema de enseñanza que utiliza la plataformas Python Institute.,
+Pycon 2022,Online,2022-12-04,06,B,Charla,https://pycon.cl/#programa,Fabio Pinto,Reconocimiento de pautas publicitarias en streaming de radio utilizando python,https://youtu.be/kR7MhHijNaE,Radio; Streaming; Django; Audio,,
+Pycon 2022,Online,2022-12-04,07,B,Charla,https://pycon.cl/#programa,Esteban Cadavid May,"Building a streaming ETL with apache beam, Google cloud and Python",https://youtu.be/fGQ9zMb1t8c,ETL; Apache Beam; Google Cloud; Datos,Realizar procesos de ETL con apache beam y Google Cloud,
+Pycon 2022,Online,2022-12-04,08,B,Charla,https://pycon.cl/#programa,Maritza Cieza,¿Cómo vencí mi pánico escénico al ser parte de Pyladies?,https://youtu.be/n8jzkLaAvgk,Pyladies; Comunidad; Miedos,"Experiencia personal sobre como ingresar y crear comunidad, y vencer esos miedo que siempre existen.",
+Pycon 2022,Online,2022-12-04,09,B,Charla,https://pycon.cl/#programa,Jaime Hernandez,Crea y vende tus propias apis de forma sencilla,https://youtu.be/5xtQ5tvaMuo,Api; Vender; Negocio; Flask; RapidApi,"Negocio que se puede generar, por medio de la creación de tus propias APIs",
+Pycon 2022,Online,2022-12-04,02,A,Charla,https://pycon.cl/#programa,Mario García,Cómo generar datos de prueba para tu proyecto de base de datos,https://youtu.be/sx229Wkknd4,Datos; data; faker; tqdm; mockup; data engineering; ingenieria de datos,"Demostración sobre como generar datos para un proyecto, con pandas y faker",
+Pycon 2022,Online,2022-12-04,03,A,Charla,https://pycon.cl/#programa,Leandro Colombo Viña,Entendiendo el virtualenv de python (ambientes virtuales),https://youtu.be/ZZfJbLzudqI,virtualenv; pipenv; poetry; venv; luthiers,Como sacar todo el provecho de ambientes virtuales,
+Pycon 2022,Online,2022-12-04,04,A,Charla,https://pycon.cl/#programa,Diego Cáceres Solis,Python en ciberseguridad,https://youtu.be/8xu8UZQ8fYg,seguridad; argparse; os; scapy; ,"La seguridad es uno de los topicos mas importantes a la momento de desarrollar, y esta charla da algunos tips sobre esto.",
+Pycon 2022,Online,2022-12-04,05,A,Charla,https://pycon.cl/#programa,Steph Orellana,Haciendo mapas con Python,https://youtu.be/4uGFYvOTtdU,datos vectoriales; api; mapa; grafico; folium,Generar mapas y graficios con Python,
+Pycon 2022,Online,2022-12-04,06,A,Charla,https://pycon.cl/#programa,Cristián Maureira-Fredes,"Python en tu lenguaje: código, documentación y comunidad",https://youtu.be/fQgvSREpYS8,lenguaje; comunidad; Codigo,"Limitaciones del lenguaje, y como crecer la comunidad hispanohablante, y hacer nuestro python",
+Pycon 2022,Online,2022-12-04,07,A,Charla,https://pycon.cl/#programa,Sergio Valenzuela,Inteligencia Artificial aplicada a la paraplejia,https://youtu.be/XyUAxdZpPxc,data science; inteligencia artificial; paraplejia; reconocimiento del habla; texto a habla,,
+Pycon 2022,Online,2022-12-04,08,A,Charla,https://pycon.cl/#programa,Juan Venegas; Nataly Osses,Análisis geográfico en JupyterLab para sistemas de agua potable rural en la región de los Ríos,https://youtu.be/SUGd2KsaJ48,data mining; pandas; folium; jupyter; Agua; APR; Geografia,"Como utilizar Python para estudios de sistemas de agua rural, utilizando el analisis geografico.",
+Pycon 2022,Online,2022-12-04,09,A,Charla,https://pycon.cl/#programa,Sergio Delgado,Candidatura PyconES 2023 Tenerife Islas Canarias,https://youtu.be/L0HFy2yZsck?t=28050, ,,
+Pycon 2022,Online,2022-12-04,10,,Keynote,https://pycon.cl/#programa,Luciano Ramalho,The art of the interpreter,https://youtu.be/rPDSw_44Ut4,interpreters; Pycon2022; Lisp; AST; Abstract Syntax Tree,"The best starting point to understand how programming languages work is to study interpreters, not compilers.",
+Pycon 2022,Santiago,2022-12-03,01,,Keynote,https://pycon.cl/#programa,Stefanni Cavaletto,Cloud AI para todos!,https://youtu.be/oWH1j-2RyfY,Machine Learning; Google; Google Cloud; IA; Cloud; Nube,"Observación, durante algunos minutos se pierde el audio, pero después vuelve.",
+Pycon 2022,Santiago,2022-12-03,02,,Charla,https://pycon.cl/#programa,Felipe Veloso,Ml end-to-end con MlFlow,https://youtu.be/r6FgDmXPPJU,MLFlow;  data science; end-to-end; MLOps,,
+Pycon 2022,Santiago,2022-12-03,03,,Charla,https://pycon.cl/#programa,Pablo Woolvett,Construyendo aplicaciones de visión computacional de alto rendimiento,https://youtu.be/4kFANji4Lq4,OpenCV; Visión Computacional; Pythia; Machine learning; tiempo real; Nvidia,,
+Pycon 2022,Santiago,2022-12-03,04,,Charla,https://pycon.cl/#programa,Fernando Smith; Agustin,"Cultura Open Source: el qué, cómo y por qué",https://youtu.be/CRwmIBaLd8w,Open Source; Richard Stallman; Free Sofware Foundation; Linux,,
+Pycon 2022,Santiago,2022-12-03,05,,Charla,https://pycon.cl/#programa,Jesús Henríquez,Raytracing con Python y numpy,https://youtu.be/SyfSvvyfP8Q,Raytracing; videojuego; Numpy; Calculo; iluminación,,
+Pycon 2022,Santiago,2022-12-03,06,,Charla,https://pycon.cl/#programa,Jose Miguel Nuñez Darnott,Kedro: un framework de Python para crear código DS mantenible y modular,https://youtu.be/XGVT1RUt5l8,Kedro; Datos; data science; Modular; ciencia de datos; sostenible; colaborativo,,
+Pycon 2022,Santiago,2022-12-03,07,,Charla,https://pycon.cl/#programa,Riva Quiroga,Reportes reproducibles usando Quarto,https://youtu.be/XkXHVS2oBIk,Quarto; Ciencia; Publicación; Publicar; Presentacion; Web,,
+Pycon 2022,Santiago,2022-12-03,08,,Charla,https://pycon.cl/#programa,Andres Montero,Inteligencia Artificial para Sonidistas,https://youtu.be/pBHZP5hygv4,Audio; Sonido; deep learning; IA; Musica; Sonidistas; Tensorflow,,
+Pycon 2022,Santiago,2022-12-03,09,,Charla,https://pycon.cl/#programa,Rene Lagos,Implementación de una ETL para monitoreo de listas de espera de hospitales públicos con Pandas,https://youtu.be/_sW9RD8F_OQ,Salud; Hospital; Medicina; ciencia de datos; datos; Analítica; ETL; Pandas,,
+Pycon 2022,Santiago,2022-12-03,10,,Keynote,https://pycon.cl/#programa,Pablo Moreno & Walter Calcagno,Evolución de Python en la Analítica de Datos y Desarrollo de Software,https://youtu.be/CsYjKSavBiA,Datos; BI; business intelligence; Power BI; Software,,
+Pycon 2022,Santiago,2022-12-03,11,,Charla,https://pycon.cl/#programa,Carlos Maldonado,Hablemos de la comunidad Python Chile,https://youtu.be/fjkQ0xNt2B4?t=27320, ,,
+PyDay 2022,La Serena,2022-08-05,,,Taller,https://pyday.cl/#programa,,De Python básico a nivel medio: elementos básicos pero potentes de Python,, ,,
+PyDay 2022,La Serena,2022-08-05,,,Taller,https://pyday.cl/#programa,,Reportes automáticos de Excel con Python,, ,,
+PyDay 2022,La Serena,2022-08-05,,,Taller,https://pyday.cl/#programa,Sebastian Ramirez,Construcción de APIs con Python: Fastapi + Pydantic,https://www.youtube.com/watch?v=3IA6y2PBNEY, ,,
+PyDay 2022,Online,2022-07-16,01,,Charla,https://pyday.cl/#programa,Shaima Chachai,La versatilidad de Python,https://youtu.be/Dy0SSE8uk-Y?t=314, ,,
+PyDay 2022,Online,2022-07-16,02,,Charla,https://pyday.cl/#programa,Francisco Alfaro,"Clases Interactivas con Google Colab, Mkdocs y Github Actions",https://youtu.be/Dy0SSE8uk-Y?t=1895, ,,
+PyDay 2022,Online,2022-07-16,03,,Charla,https://pyday.cl/#programa,Alonso Ogueda,A Review and Application of Disease Informed Neural Network,https://youtu.be/Dy0SSE8uk-Y?t=3331, ,,
+PyDay 2022,Online,2022-07-16,04,,Charla,https://pyday.cl/#programa,Comunidad PythonChile,Comunidad PythonChile,https://youtu.be/Dy0SSE8uk-Y?t=4611, ,,
+PyDay 2022,Online,2022-07-16,05,,Charla,https://pyday.cl/#programa,Tatiana Canales; Riva Quiroga; Steph Orellana,PyLadies Chile,https://youtu.be/Dy0SSE8uk-Y?t=5578, ,,
+PyDay 2022,Online,2022-07-16,06,,Charla,https://pyday.cl/#programa,César Riat,"Inteligencia Artificial para prevenir el Dengue, Zika y Chikungunya",https://youtu.be/Dy0SSE8uk-Y?t=7636, ,,
+PyDay 2022,Online,2022-07-16,07,,Charla,https://pyday.cl/#programa,Alison Orellana Rios,Manejo de imágenes con Visión Computacional,https://youtu.be/Dy0SSE8uk-Y?t=8885, ,,
+PyDay 2022,Online,2022-07-16,08,,Charla,https://pyday.cl/#programa,Diego Saavedra,Uso de Quarto en la enseñanza de pensamiento computacional.,https://youtu.be/Dy0SSE8uk-Y?t=10117, ,,
+PyDay 2022,Online,2022-07-16,09,,Charla,https://pyday.cl/#programa,César Hormazábal,Decoradores para mejorar el código,https://youtu.be/Dy0SSE8uk-Y?t=11350, ,,
+PyDay 2022,Online,2022-07-16,10,,Charla,https://pyday.cl/#programa,Carlos Arancibia,Mejorando la confiabilidad de los datos con dbt,https://youtu.be/Dy0SSE8uk-Y?t=17825, ,,
+PyDay 2022,Online,2022-07-16,11,,Charla,https://pyday.cl/#programa,Jose Arnulfo Reyes;José Ramirez ,Porqué todos los programadores deberían participar en una comunidad,https://youtu.be/Dy0SSE8uk-Y?t=19028, ,,
+PyDay 2022,Online,2022-07-16,12,,Charla,https://pyday.cl/#programa,Eladio Garcia,Como potenciar el marketing de tu empresa utilizando Odoo / Python,https://youtu.be/Dy0SSE8uk-Y?t=20824, ,,
+PyDay 2022,Online,2022-07-16,13,,Charla,https://pyday.cl/#programa,Estephani Rivera Jaramillo,Exploración de Datos con Python,https://youtu.be/Dy0SSE8uk-Y?t=23448, ,,
+PyDay 2022,Online,2022-07-16,14,,Charla,https://pyday.cl/#programa,Renzo Cáceres Rossi,"Introducción a RMarkdown, creando reportes con Python en RStudio",https://youtu.be/Dy0SSE8uk-Y?t=24834, ,,
+PyDay 2022,Online,2022-07-16,15,,Charla,https://pyday.cl/#programa,Juan Perozo,Construyendo nuestra torre de Babel: Django + Singer ETL + Airflow. Otro proceso ETL mas,https://youtu.be/Dy0SSE8uk-Y?t=26036, ,,
+PyDay 2022,Online,2022-07-16,16,,Charla,https://pyday.cl/#programa,Diego Caceres Solis,Python en Ciberseguridad,https://youtu.be/Dy0SSE8uk-Y?t=26882, ,,
+PyDay 2022,Valparaíso,2022-07-15,,,Taller,https://pyday.cl/#programa,Steph Orellana,Introducción al Análisis de Datos Geoespaciales con Python,Sin registro, ,,
+PyDay 2022,Valparaíso,2022-07-15,,,Taller,https://pyday.cl/#programa,Sebastian Flores,Construye una webapp multipágina con streamlit - for dummies,Sin registro, ,,
+Meetups 2022,Online,2022-01-27,1,,Meetup,No aplica,Franco Milanese,Python + InfluxDB en contenedores Dockers,https://youtu.be/fm2-PQFrwpE?t=316, ,,
+Meetups 2022,Online,2022-01-27,2,,Meetup,No aplica,Dario Macchi,Calidad en contextos ágiles,https://youtu.be/fm2-PQFrwpE?t=2144, ,,
+Meetups 2022,Online,2022-02-24,1,,Meetup,No aplica,Andrés Ríos,Analytics Factory: Como optimizar para iterar rápido,https://youtu.be/YTsq2owOzyo?t=263, ,,
+Meetups 2022,Online,2022-02-24,2,,Meetup,No aplica,Camilo Chacón,Aprendizaje a través de grafos: Graph Neural Networks,https://youtu.be/YTsq2owOzyo?t=1646, ,,
+Meetups 2022,Online,2022-03-24,1,,Meetup,No aplica,Cárlos Gómez,Haz tu código mas elegante con Functools,https://youtu.be/9iiH4TnCFUE?t=273, ,,
+Meetups 2022,Online,2022-03-24,2,,Meetup,No aplica,Federico Garza,El auto ARIMA más rápido de Python: construir benchmarks estadísticos para series de tiempo nunca ha sido más sencillo,https://youtu.be/9iiH4TnCFUE?t=1931, ,,
+Meetups 2022,Online,2022-04-28,1,,Meetup,No aplica,David Farinango,Introducción a la estadística bayesiana y un caso de uso en marketing,https://youtu.be/UxYg0ira1g8?t=131,David de Ecuador! nombre correcto?,,
+Meetups 2022,Online,2022-04-28,2,,Meetup,No aplica,Priscila Cejas,Machine Learning - Forecasting,Sin registro?,,,
+Meetups 2022,Online,2022-05-26,1,,Meetup,No aplica,Diego Cáceres,CRUD con Django y Python,https://youtu.be/mSAhkcSRdNY?t=246,,,
+Meetups 2022,Online,2022-05-26,2,,Meetup,No aplica,Denny Pérez; Cristián Maureira-Fredes,Resumen y Novedades PyCon US 2022,https://youtu.be/mSAhkcSRdNY?t=2108,,,
+Meetups 2022,Online,2022-06-30,1,,Meetup,No aplica,Tatiana Delgadillo,Visualizando la realidad con Python: Feminicidios,https://youtu.be/CBJrQOWGxeU?t=143, ,,
+Meetups 2022,Online,2022-06-30,2,,Meetup,No aplica,Elka Buitrago; Claudio Piña,Anunciando el PyDay Chile 2022,https://youtu.be/CBJrQOWGxeU?t=2107, ,,
+Meetups 2022,Online,2022-08-25,1,,Meetup,No aplica,Sebastian Flores ,Streamlit en la industria,https://youtu.be/FPOQmLB7zE8?t=240, ,OBS: La descripción de la charla está equivocada,
+Meetups 2022,Online,2022-08-25,2,,Meetup,No aplica,Jorge Arriagada; Stevan Luvic,Civils.ai - Una plataforma Opensource de Ingeniería Civil,https://youtu.be/FPOQmLB7zE8?t=2447, ,,
+Meetups 2022,Online,2022-09-29,1,,Meetup,No aplica,Francisco Alfaro,Automatizando la documentación con MkDocs,https://youtu.be/ztCLbcYQcjs?t=302, ,,
+Meetups 2022,Online,2022-09-29,2,,Meetup,No aplica,Andrés Pineda,Importancia del Test Driven Development,https://youtu.be/ztCLbcYQcjs?t=2580, ,,
+Meetups 2022,Online,2022-10-27,1,,Meetup,No aplica,Fernando Smith,Generando comunidad Open Source en la Universidad Católica,https://youtu.be/artZ149FvH0?t=381, ,,
+Meetups 2022,Online,2022-10-27,2,,Meetup,No aplica,Alejandro Weinstein,Minería de datos y Python,https://youtu.be/artZ149FvH0?t=1068, ,,
+Easter Eggs,Online,2019-12-11,,,Entrevista,No aplica,Piragua González,Ajedrez bajo el agua,https://www.youtube.com/watch?v=2Q5A7SxqVOA, ,,
+Pycon 2021,Online,2021-11-06,01,,Keynote,,Tania Allard,FOSS for fun and profit o cómo participar en código abierto y no morir en el intento,https://www.youtube.com/watch?v=8d6rZIug9LA,,,
+Pycon 2021,Online,2021-11-06,02,A,Charla,https://pycon.cl/2021/#schedule,Erick Castillo Bastias,Buenas prácticas de desarrollo en Python,https://www.youtube.com/watch?v=L9NGtc61W0Q,,,https://github.com/ecastillob/pycon-chile-2021
+Pycon 2021,Online,2021-11-06,03,A,Charla,https://pycon.cl/2021/#schedule,Jazna Meza Hidalgo,"¿Machine Learning, Python?, ¿qué puedo hacer?",https://www.youtube.com/watch?v=ofTNYSy3FtY,,,"• https://datos.gob.cl/
+• https://es.datachile.io/
+• https://mml-book.github.io/
+• https://mml-book.github.io/
+•  el ISLR: https://www.statlearning.com/
+•  Elements of Statistical Learning: https://web.stanford.edu/~hastie/ElemStatLearn/
+
+• Preparación certificación de IA de Huawei: https://e.huawei.com/en/talent/#/
+
+•  https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+• El curso es online y se basa en este libro: https://www.statlearning.com/"
+Pycon 2021,Online,2021-11-06,04,A,Charla,https://pycon.cl/2021/#schedule,Pamela Illescas Maldonado,Modelo de Reinforcement learning con Python: aprendiendo desde 0,https://www.youtube.com/watch?v=5HGu6k2KXeA,,,
+Pycon 2021,Online,2021-11-06,05,A,Charla,https://pycon.cl/2021/#schedule,Omar Sanseviero,Cómo construir demos de Machine Learning con Python,https://www.youtube.com/watch?v=Mg7YeWBUKbM,,,"• http://hf.co/spaces
+• https://hf.co/spaces/launch
+• https://hf.co/join/discord
+
+• https://huggingface.co/spaces/flax-community/dalle-mini
+• https://huggingface.co/spaces/flax-community/chef-transformer
+• https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD
+• https://github.com/TheHackerLlama/charlas/blob/main/gradio_demos.ipynb
+
+• http://hf.co/models tiene 20000 modelos Open Source compartidos por la comunidad. Casi 400 en espanol, pero podemos tener muchos mas!
+
+• slides: https://www.canva.com/design/DAEu5fZ_wTY/Ra_T_nb4K9AJz6rz0hb43Q/view"
+Pycon 2021,Online,2021-11-06,06,,Keynote,https://pycon.cl/2021/#schedule,"Alex Harasic, Sebastian Kreft, Marḱia Noel de la Paz y Daniel Márquez",Industria Tecnológica en Chile: Innovando y emprendiendo con Python,https://www.youtube.com/watch?v=bU9r9YqVPCY,,,
+Pycon 2021,Online,2021-11-06,07,,Keynote,https://pycon.cl/2021/#schedule,Roberto Toro,Neuroscience & Python: BFF ❤️,https://www.youtube.com/watch?v=EUUYTspUCwA,,,
+Pycon 2021,Online,2021-11-06,08,A,Charla,https://pycon.cl/2021/#schedule,Marco Muñoz,Benchmark Profesionales TI Latam,https://www.youtube.com/watch?v=j065mTRM9oU,,,https://it-talenthh.com/2021/11/04/white-paper-benchmark-profesionales-ti-latam/
+Pycon 2021,Online,2021-11-06,09,A,Charla,https://pycon.cl/2021/#schedule,Fernando Irarrazaval,Introducción a los modelos bayesianos usando PyMC3,https://www.youtube.com/watch?v=0C6HnEHLaf0,,,"• https://thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00160-7/fulltext#
+• https://docs.pymc.io/en/stable/nb_examples/index.html
+• https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566
+• https://en.wikipedia.org/wiki/Maximum_entropy_probability_distribution
+• https://twiecki.io/blog/2019/01/14/supply_chain/"
+Pycon 2021,Online,2021-11-06,10,A,Charla,https://pycon.cl/2021/#schedule,Ricardo Leonardo Vega Mora,Programación creativa: Por que los diseñadores deben aprender a programar (y porque Python puede ser un gran aliado!),https://www.youtube.com/watch?v=ISY0LiI6qiU,,,"• https://issuu.com/ricardov_net
+• https://www.youtube.com/watch?v=eCG0M6T5sMU
+• Drawbot  (Python) drawbot.com y/o Processing (Java) Processing.org"
+Pycon 2021,Online,2021-11-06,11,A,Charla,https://pycon.cl/2021/#schedule,Raquel Pezoa Rivera,Clasificación desbalanceada con Python: modificando datos y algoritmos,https://www.youtube.com/watch?v=pB262BOPRfg,,,"• https://github.com/rpezoa/imbalanced-class
+• https://drive.google.com/drive/folders/1Riowx9j8xutNaVJQTmtxkBn01xogSV5g?usp=sharing"
+Pycon 2021,Online,2021-11-06,02,B,Charla,https://pycon.cl/2021/#schedule,Alison Orellana Rios,Reconocimiento de figuras con Visión Artificial,https://www.youtube.com/watch?v=rC5KCVC0CuU,,,https://github.com/AllyOR/OpenCV_Examples
+Pycon 2021,Online,2021-11-06,03,B,Charla,https://pycon.cl/2021/#schedule,Rodrigo Tobar,"Usando Python en el SKA, el radio-observatorio más grande del mundo",https://www.youtube.com/watch?v=kJ2wt1iM0m8,,,"https://docs.google.com/presentation/d/1WALCPJeAb39SAKKZzjSra__DZJq8cn9nomBfeIkW1Cs/edit?usp=sharing
+
+ • Página oficial del telescopio SKA 📡: https://www.skatelescope.org/
+ • Código fuente desarrollado para el SKA 💻: https://gitlab.com/ska-telescope
+ • Documentación para desarrolladores 📖: https://developer.skao.int/
+
+ • Sitio web 🌐  : https://icrar.org/
+ • GitHub: https://github.com/ICRAR
+
+ • https://github.com/rtobar
+ • https://gitlab.com/rtobar
+ • https://developer.skao.int/en/latest/getting-started/contrib-guidelines.html"
+Pycon 2021,Online,2021-11-06,04,B,Charla,https://pycon.cl/2021/#schedule,Emiliano Martin,Profiling & Optimization in Python,https://www.youtube.com/watch?v=kWqBfpFI9cA,,,"• https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67
+• https://github.com/emimartin26/profiling_optimization_pyconcl2021
+• https://rise.readthedocs.io/en/stable/usage.html funciona con los jupyter notebooks"
+Pycon 2021,Online,2021-11-06,05,B,Charla,https://pycon.cl/2021/#schedule,Federico Garza Ramírez,Nixtla: Deep Learning para pronóstico de series de tiempo,https://www.youtube.com/watch?v=OiBToijcHac,,,"• Nixtla, ecosistema de pronóstico de series de tiempo: https://github.com/Nixtla
+• nixtlats, deep learning para pronóstico de series de tiempo: https://github.com/Nixtla/nixtlats
+• Blog de replicación:       https://nixtla.github.io/blog/deep%20learning/forecasting/m4/2021/06/25/esrnn-i.html
+• GitHub: https://github.com/FedericoGarza"
+Pycon 2021,Online,2021-11-06,08,B,Charla,https://pycon.cl/2021/#schedule,Luis Falcon,"MyGNUHealth, la aplicación de gestión de salud personal de GNU Health",https://www.youtube.com/watch?v=A9Zo9Quhkqs,,,"• GNU Health : https://www.gnuhealth.org/
+• GNU Solidario (ONG): https://www.gnusolidario.org/
+• Conferencia anual - GNU Health Con - : https://www.gnuhealthcon.org/ "
+Pycon 2021,Online,2021-11-06,09,B,Charla,https://pycon.cl/2021/#schedule,Rodrigo Tesone,¿Podemos hablar sin pelear? Una pequeña conversación entre la política y el análisis de datos,https://www.youtube.com/watch?v=R0ASPEDCgAc,,,https://docs.google.com/document/d/1ycPw1aAA3CZIkScVoC5SA-6Suk_xzw2XghsvL3JfcI8/edit?usp=drivesdk
+Pycon 2021,Online,2021-11-06,10,B,Charla,https://pycon.cl/2021/#schedule,Gabriel Ortega Ibarra,Creando un servidor y un bot de Discord para la comunidad estudiantil de informática en la UTFSM,https://www.youtube.com/watch?v=eKllxm8yUYk,,,"• Portal Discord Developer: https://discord.com/developers/docs/intro 
+• App Commands: https://canary.discord.com/developers/docs/interactions/application-commands 
+• Hikari Docs: https://www.hikari-py.dev/hikari/ 
+• Hikari-Lightbulb: https://hikari-lightbulb.readthedocs.io/en/latest/ "
+Pycon 2021,Online,2021-11-06,11,B,Charla,https://pycon.cl/2021/#schedule,Patricio Cofre y Roberto Gonzalez,Cómo los observatorios están aprovechando la IA para mejorar su operación y trabajo científico,https://www.youtube.com/watch?v=TvDX38x14DA,,,"• https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/
+• https://www.eso.org/public/announcements/annlocal20004-es-cl/
+• https://www.youtube.com/watch?v=Pw7OsafylO0 
+• https://drive.google.com/file/d/10lea-gn_Vms0dobfsN45gbHOfHg5HQAz/view?usp=sharing"
+Pycon 2021,Online,2021-11-07,01,,Keynote,https://pycon.cl/2021/#schedule,Sebastián Ramírez,Modern Python through FastAPI and friends,https://www.youtube.com/watch?v=3IA6y2PBNEY,,,
+Pycon 2021,Online,2021-11-07,02,A,Charla,https://pycon.cl/2021/#schedule,Héctor Vega,Buenas prácticas para dejar de ser junior en Python,https://www.youtube.com/watch?v=_-2erPEYbjk,,,Presentación: https://docs.google.com/presentation/d/1eVBthcjRd-rXsCTYfFDOl-qBnWiHEsDtHw4SGXbNsvk/edit#slide=id.p
+Pycon 2021,Online,2021-11-07,03,A,Charla,https://pycon.cl/2021/#schedule,Aldo Escobar,Desarrollo de productos de datos automatizados utilizando un stack moderno de datos,https://www.youtube.com/watch?v=2NYcq7oBfFo,,,"• https://github.com/aoelvp94/Spotydash
+• Presentación:  https://docs.google.com/presentation/d/1Z-ifinpJuH5b9_acZmZn19BWcmxNDohHJ89yQGBWd4g/edit 
+• https://muttdata.ai/blog/ blog
+• https://muttdata.ai/blog/2021/09/29/data-engineering-fundamentals.html
+• https://muttdata.ai/blog/2021/06/09/muttlib-public-release.html
+• https://muttdata.ai/blog/2021/09/15/soam-public-release.html"
+Pycon 2021,Online,2021-11-07,04,A,Charla,https://pycon.cl/2021/#schedule,Eduardo Blancas,Desarrollo y despliegue de un proyecto de Machine Learning en 20 minutos con Ploomber,https://www.youtube.com/watch?v=IRUKK9Z4Y1k,,,https://blancas.io/talks/pycon-chile-21.pdf
+Pycon 2021,Online,2021-11-07,05,A,Charla,https://pycon.cl/2021/#schedule,Maria Rene Torrez Vargas,Programa tu historia with Renpy,https://www.youtube.com/watch?v=uaFtqen4HLc,,,
+Pycon 2021,Online,2021-11-07,06,,Keynote,https://pycon.cl/2021/#schedule,"Stefanni Cavaleto, Loreto Sanchez, Catalina Arrey, Daniela Espinoza y Pamela Bustamante",Mujeres en Tecnología: Chilenas que inspiran,https://www.youtube.com/watch?v=o-ZzEiwT7l0,,,
+Pycon 2021,Online,2021-11-07,07,,Keynote,https://pycon.cl/2021/#schedule,Eugenia Bahit,Desarrollo de Aplicaciones Web con Python,https://www.youtube.com/watch?v=rRgn8d7mFXQ,,,
+Pycon 2021,Online,2021-11-07,08,A,Charla,https://pycon.cl/2021/#schedule,Robert Rozas Navarro,Python-Flask en Azure Kubernetes Services,https://www.youtube.com/watch?v=3Y_haNh7M8I,,,https://github.com/AshWilliams/AwesomeClinic-Back
+Pycon 2021,Online,2021-11-07,09,A,Charla,https://pycon.cl/2021/#schedule,Adrián Fernández Zenteno,TinyML for IoT,https://www.youtube.com/watch?v=cHRaeW05hEI,,,"• https://www.raspberrypi.com/products/raspberry-pi-pico/
+• https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense
+• https://www.seeedstudio.com/blog/2021/03/26/10-raspberry-pi-pico-projects/
+• https://studio.edgeimpulse.com/studio/60782/acquisition/
+
+Tools:
+• NanoEdge AI Studio
+• https://cartesiam.ai/download/
+
+OctoML
+• https://octoml.ai/solutions/edge-devices/
+
+MediaTek 
+• https://neuropilot.mediatek.com/
+
+EdgeImpulse
+• https://studio.edgeimpulse.com/""
+"
+Pycon 2021,Online,2021-11-07,10,A,Charla,https://pycon.cl/2021/#schedule,Gonzalo Andrés Peña-Castellanos,"
+Democratizando las herramientas de código abierto",https://www.youtube.com/watch?v=Qo9_GgiVB7Q,,,"• Diapositivas: https://docs.google.com/presentation/d/1JN4cZBWbr1o6HrViP2C2kMriEI9yWUSSB4Pvil6XDOQ/edit?usp=sharing
+• http://babel.pocoo.org/en/latest/cmdline.html
+• https://github.com/jupyterlab/jupyterlab-translate/blob/master/jupyterlab_translate/api.py
+• https://jupyterlite.github.io/demo/lab/index.html"
+Pycon 2021,Online,2021-11-07,11,A,Charla,https://pycon.cl/2021/#schedule,Rodrigo Flores Figueroa y Carlos Pinto Urtubia,Aplicando Python al desarrollo de nanosatélites,https://www.youtube.com/watch?v=d03XNYkD5sE,,,"Octa Aerospace:
+  LinkedIn: https://www.linkedin.com/company/octa-aerospace/
+  Página: https://www.octaaerospace.com/
+  GitHub: https://github.com/Octa-Aerospace
+  Instagram: https://www.instagram.com/octaaerospace/
+
+Repositorio hardware:
+https://github.com/Rodrigo-Flores/SIMESAT-CanSat-V2
+
+Repositorio dashboard:
+https://github.com/CxrlosKenobi/Dashboard-SIMESAT-1
+
+Presentación:
+https://drive.google.com/file/d/1yrVfXaeehUqQpSnrHKw2WR2RRaf85J40/view?usp=sharing "
+Pycon 2021,Online,2021-11-07,02,B,Charla,https://pycon.cl/2021/#schedule,Agustín Salas,Python para hackers - Entendiendo y construyendo ataques de día 1,https://www.youtube.com/watch?v=VLyEJoQhuD4,,,"• https://www.comptia.org/es/certificaciones/security 
+• https://elearnsecurity.com/product/ejpt-certification/"
+Pycon 2021,Online,2021-11-07,03,B,Charla,https://pycon.cl/2021/#schedule,Jorge Anais Vilchez,Búsqueda de cúmulos estelares usando aprendizaje de máquinas no supervisado,https://www.youtube.com/watch?v=XtSLA3wwaBk,,,"https://github.com/adamdempsey90/StarClusters
+https://github.com/jorgeanais/apolo
+Presentación: https://drive.google.com/file/d/1LyNOVVWYNNLY08txkigK_gEfIQU60HZV/view?usp=sharing
+Tesis con todos los detalles de la investigación: https://drive.google.com/file/d/1jOm1EbwCMeIM_4Pfu6WMQxPkQsNnG443/view?usp=sharing"""
+Pycon 2021,Online,2021-11-07,04,B,Charla,https://pycon.cl/2021/#schedule,Javier Alonso Diaz Valderrama,Mano robótica controlada mediante visión por computador,https://www.youtube.com/watch?v=wUktn8lHFrY,,,"• https://github.com/jdiazvalderrama/ManoOpenCV
+• https://www.computervision.zone/
+• https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI"
+Pycon 2021,Online,2021-11-07,05,B,Charla,https://pycon.cl/2021/#schedule,Sebastian Flores,"WebApps con Streamlit: ¡más fácil que la tabla del uno, poh!",https://www.youtube.com/watch?v=cZSzK2uIqjY, ,,"• Repositorio de la presentación: https://github.com/sebastiandres/talk_2021_11_pyconcl
+• Version en línea: https://share.streamlit.io/sebastiandres/talk_2021_11_pyconcl/main
+• Muchos ejemplos: https://share.streamlit.io/napoles-uach/mundaneapps/main/st_parade.py
+• https://streamlit.io/terms-of-use
+• https://streamlit-components-tutorial.netlify.app/
+• https://share.streamlit.io/napoles-uach/mundaneapps/main/st_parade.py""
+• https://sebastiandres.xyz/"
+Pycon 2021,Online,2021-11-07,08,B,Charla,https://pycon.cl/2021/#schedule,Ernesto Rico Schmidt,"Desarrollo, ejecución de pruebas y despliegue en contenedores Docker",https://www.youtube.com/watch?v=cZYdbh3ASFY,,,"• https://gitlab.com/testdriven/django-tdd-docker
+• Presentación: https://rico-schmidt.name/files/pycon-chile-2021.pdf
+• Curso de testdriven: https://testdriven.io/courses/tdd-django/"
+Pycon 2021,Online,2021-11-07,09,B,Charla,https://pycon.cl/2021/#schedule,Elian Raquel Laura Riveros,Usando Pytorch para crear una red neuronal artificial,https://www.youtube.com/watch?v=NJS1yapJUKc,,,"
+• https://drive.google.com/file/d/1FYt_0JtliJRPiN6hYuyEP3wGYbTGk80z/view?usp=sharing"
+Pycon 2021,Online,2021-11-07,10,B,Charla,https://pycon.cl/2021/#schedule,Claudio Salazar,Security Code Review in Python,https://www.youtube.com/watch?v=XGqtxRBaX54,,,"• https://slides.com/csalazar/security-code-review-in-python-7ba22e
+• https://medium.com/spect/exploiting-the-scraper-756a0981ed12
+• https://medium.com/alertot/web-scraping-considered-dangerous-leaking-files-from-the-spiders-host-bd508f81d498"
+Pycon 2021,Online,2021-11-07,11,B,Charla,https://pycon.cl/2021/#schedule,Alfonso Tobar,Fallando Rápido hasta el Éxito con Hydra,https://www.youtube.com/watch?v=G69p0G53kmw,,,"• https://hydra.cc/docs/advanced/compose_api
+• https://datacuber.cl/"
+PyDay 2020,Online,2020-12-05,01,,Keynote,https://pyday.cl/2020/#schedule,Juan Luis Cano Rodriguez,Software científico reproducible en el siglo XXI,https://www.youtube.com/watch?v=Sz9O1Yw1qu8,reproducibilidad; software; ciencia,,
+PyDay 2020,Online,2020-12-05,02,,Charla,https://pyday.cl/2020/#schedule,Marilina Santero,The Turing Way: Una guía asertiva para la ciencia de datos reproducible,https://www.youtube.com/watch?v=CFYq2EWmGIk,,,
+PyDay 2020,Online,2020-12-06,03,,Charla,https://pyday.cl/2020/#schedule,Alejandro Weinstein,Procesando señales electrofisiológicas usando Python,https://www.youtube.com/watch?v=WKhdNl9PL0Q,,,
+PyDay 2020,Online,2020-12-07,04,,Charla,https://pyday.cl/2020/#schedule,Gonzalo Andrés Fernández Carrillo,"5 años de Pythonia: Una historia de anécdotas, aprendizajes y muchos pukamones",https://www.youtube.com/watch?v=LK0X2C4t-Ow,,,
+PyDay 2020,Online,2020-12-08,05,,Charla,https://pyday.cl/2020/#schedule,Rodrigo Tobar,ijson: iterando sobre contenidos JSON de forma rápida y eficiente,https://www.youtube.com/watch?v=GGzKCgw4hHk,,,
+PyDay 2020,Online,2020-12-09,06,,Keynote,https://pyday.cl/2020/#schedule,Katia Lira,Developing Comunidad,https://www.youtube.com/watch?v=rPjchKSLSfE,,,
+PyDay 2020,Online,2020-12-10,07,,Charla,https://pyday.cl/2020/#schedule,Stephanie Frias,"Python para Testers, Porqué y Cómo",https://www.youtube.com/watch?v=3Tbb3YD8lCQ,,,
+PyDay 2020,Online,2020-12-11,08,,Charla,https://pyday.cl/2020/#schedule,Victor Suarez,MicroPython y Domótica,https://www.youtube.com/watch?v=ZgBJxD4vbdw,,,
+PyDay 2020,Online,2020-12-12,09,,Charla,https://pyday.cl/2020/#schedule,Jon Vadillo Romero,Construye una aplicación web con Django en 15 minutos,https://www.youtube.com/watch?v=bR3QPUFIHWM,,,
+PyDay 2020,Online,2020-12-13,10,,Charla,https://pyday.cl/2020/#schedule,Raquel Pezoa Rivera,Como clasifico eventos generados en el experimento ATLAS del LHC con Python,https://www.youtube.com/watch?v=Z1Bk9niVNIM,,,
+PyDay 2020,Online,2020-12-14,11,,Keynote,https://pyday.cl/2020/#schedule,Lorena Mesa,"Lo que hablo de Python: Diversidad, Inclusión y Comunidad",https://www.youtube.com/watch?v=JkjxOnBvzww,,,
+PyDay 2020,Online,2020-12-15,12,,Charla,https://pyday.cl/2020/#schedule,Elian Laura,Creando comunidad para el cambio: PyLadies Arequipa,https://www.youtube.com/watch?v=YwobduT4oRU,,,
+PyDay 2020,Online,2020-12-16,13,,Charla,https://pyday.cl/2020/#schedule,Daniel Undurraga,Origenes de Cornershop y por qué usamos Python,https://www.youtube.com/watch?v=HXlhR1x6pLw,,,
+PyDay 2020,Online,2020-12-17,14,,Charla,https://pyday.cl/2020/#schedule,Matías Carrasco,LHLab: Visualización rápida de datos y aplicaciones con Streamlit,https://www.youtube.com/watch?v=tknZjO21MyE,,,
+PyDay 2020,Online,2020-12-18,15,,Charla,https://pyday.cl/2020/#schedule,Jorge Avarias,El uso de Python en un radiotelescopio,https://www.youtube.com/watch?v=xzd9KLM8jAc,,,
+PyDay 2020,Online,2020-12-19,16,,Charla,https://pyday.cl/2020/#schedule,Claudio Salazar,Secure software development using Python,https://www.youtube.com/watch?v=CBe01R4avf0,,,
+PyDay 2020,Online,2020-12-20,17,,Charla,https://pyday.cl/2020/#schedule,Camila Rangel Smith,LA-CoNGA Physics colaboración en educación científica entre América Latina y EU,https://www.youtube.com/watch?v=rtwgQZFiNXE,,,
+PyDay 2020,Online,2020-12-21,18,,Charla,https://pyday.cl/2020/#schedule,Joaquín Menendez,Aproximándonos a Data Science con Python,https://www.youtube.com/watch?v=hKsep8qZTfE,,,
+PyDay 2020,Online,2020-12-22,19,,Charla,https://pyday.cl/2020/#schedule,Marco Muñoz,Proyecciones del Mercado Laboral IT,https://www.youtube.com/watch?v=mZ_WG47QKMo,,,
+PyDay 2020,Online,2020-12-23,20,,Charla,https://pyday.cl/2020/#schedule,Ivan Muñoz,Secuencias de operación en el ELT (Extremely Large Telescope),https://www.youtube.com/watch?v=fGBhkxGNLxs,,,
+PyDay 2020,Online,2020-12-24,21,,Charla,https://pyday.cl/2020/#schedule,Stefanni Cavaletto,Azure Cognitive Services with Python,https://www.youtube.com/watch?v=pRtcjSyGhqM,,,
+PyDay 2020,Online,2020-12-25,22,,Charla,https://pyday.cl/2020/#schedule,Luis Jaraquemada,Encapsulamiento y Metaclases al Estilo Python,https://www.youtube.com/watch?v=f0j-D5Gn2RY,,,
+PyDay 2020,Online,2020-12-26,23,,Charla,https://pyday.cl/2020/#schedule,Alejandro Sánchez,Las 10 cosas que quisiera que me hubieran dicho cuando estaba aprendiendo Python,https://www.youtube.com/watch?v=aF9k9Vhz9_I,,,
+PyDay 2020,Online,2020-12-27,24,,Charla,https://pyday.cl/2020/#schedule,Manuel Moisés Merino Piceros,Python en la industria 4.0,https://www.youtube.com/watch?v=th7WbnOlGAg,,,
+PyDay 2020,Online,2020-12-28,25,,Charla,https://pyday.cl/2020/#schedule,Mario García,Mejores herramientas para gestionar tu proyecto Python,https://www.youtube.com/watch?v=dJ-H-m8T_Nk,,,
+PyDay 2020,Online,2020-12-29,26,,Charla,https://pyday.cl/2020/#schedule,Alejandro Cataldo,Python como herramienta para apoyar procesos de toma de decisiones,https://www.youtube.com/watch?v=U_t4lm1HkrU,,,
+PyDay 2020,Online,2020-12-30,27,,Charla,https://pyday.cl/2020/#schedule,Oscar Terrazas,Las tecnologías más demandadas por las empresas en Silicon Valley,https://www.youtube.com/watch?v=Jxm75bsVndk,,,
+Otros eventos,Online,2021-09-20,1,,Charla,,Oscar Terrazas,Las habilidades más demandadas por las startups de Silicon Valley,https://www.youtube.com/watch?v=Xbq1vDgPVdA,startup; habilidades; silicon valley,,
+Otros eventos,Online,2021-01-05,2,,Charla,,Stephanie Frías,Taller PyLadies - Introducción a Python,https://www.youtube.com/watch?v=EeOp9Lpgjso,python; aprender,,
+Otros eventos,Online,2021-01-05,3,,Charla,,Alejandro Weinstein; Roberto Carrasco; Wenceslao Palma; Gabriela Montenegro; Roberto León; Roberto Asin; ,Mesa de Discusión - Python y educación: desafíos para el futuro,https://www.youtube.com/watch?v=C3OfuSF-5do,python; educación; desafíos;,,
+Otros eventos,Online,2021-08-24,4,,Charla,,Cristián Maureira-Fredes,Creando propuestas de charlas,https://www.youtube.com/watch?v=gnXDxtpz2OI,pycon; pyday; charlas; consejos; propuesta,,
