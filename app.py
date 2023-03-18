@@ -40,6 +40,13 @@ inject_ga()
 
 st.set_page_config(page_title="Python Search Engine", page_icon="🐍", layout="wide")
 st.title("Python Search Engine")
+st.markdown("""
+    Lorem ipsum dolor sit amet. Qui inventore corporis 33 temporibus tempora eos atque quia ex vero aspernatur eum voluptas internos. Et omnis modi At magnam impedit a labore omnis At accusantium debitis est consequatur voluptas. Vel dolorem quasi aut nesciunt atque et totam illo non tempora quae vel expedita consequatur in quibusdam quia. Rem dolore quisquam rem alias nulla eum quae eveniet eum minus blanditiis.
+
+    Qui Quis necessitatibus aut molestias corporis et voluptatem odit. Qui libero dolore et atque enim et libero molestiae ea doloremque reiciendis non beatae voluptas ut repellat exercitationem qui nemo nemo.
+
+    At voluptates consequuntur sed saepe amet et corporis facilis vel iusto atque qui aspernatur commodi qui eius amet et ipsa quae? Ut sint delectus ut officia perferendis a possimus illum in facilis omnis vel blanditiis temporibus et quia nihil! Et porro voluptatem ea nostrum enim est nesciunt eaque. Sed galisum exercitationem id doloribus dolore et aperiam commodi ab minus magnam non ducimus tenetur 33 sint quia ut nihil autem.
+    """)
 
 df = pd.read_csv("spreadsheet.csv").fillna("")
 
